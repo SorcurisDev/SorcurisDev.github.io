@@ -1,0 +1,18 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.banner {
+  background-color: black;
+}
+
+#owner_title {
+  color:white;
+}
+
+#owner_title span {
+  color:white;
+  font-size: 15px;
+  text-align: center;
+}
